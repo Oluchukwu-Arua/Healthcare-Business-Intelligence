@@ -11,7 +11,7 @@ An end-to-end healthcare business intelligence project analyzing 16,600 inpatien
 
 **[View the Interactive Tableau Story ](https://public.tableau.com/views/ARUA_OLUCHUKWU_LAWRENCIA_HEALTHCARE_BI/HEALTHCAREBI?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
-**[Read the full write-up on Medium ](INSERT_MEDIUM_LINK)**
+**[Read the full write-up on Medium ](https://medium.com/@aruaoluchilaw/hospital-performance-clinical-outcomes-financial-sustainability-analysis-42065b129dc2)**
 
 ---
 
